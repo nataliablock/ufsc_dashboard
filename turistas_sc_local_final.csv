@@ -1,0 +1,635 @@
+local,ano,total
+          África,2010,	122
+África do Sul,2010,	16
+Angola,2010,	3
+Cabo Verde,2010,NA
+Nigéria,2010,	1
+Outros países da África,2010,	102
+          América Central e caribe,2010,	68
+Costa Rica,2010,	12
+Cuba,2010,	28
+Guatemala,2010,	9
+Panamá,2010,	3
+Outros países da América Central e Caribe,2010,	16
+          América do Norte,2010,	505
+Canadá,2010,	38
+Estados Unidos,2010,	430
+México,2010,	37
+          América do Sul,2010,	125136
+Argentina,2010,	100853
+Bolívia,2010,	91
+Chile,2010,	19167
+Colômbia,2010,	80
+Equador,2010,	51
+Guiana Francesa,2010,NA
+Paraguai,2010,	1631
+Peru,2010,	74
+República da Guiana,2010,NA
+Suriname,2010,NA
+Uruguai,2010,	3160
+Venezuela,2010,	29
+          Ásia,2010,	442
+China,2010,	12
+Índia,2010,	9
+Israel,2010,	338
+Japão,2010,	23
+República da Coréia ,2010,	20
+Outros países da Ásia,2010,	40
+          Europa,2010,	1924
+Alemanha,2010,	298
+Áustria,2010,	20
+Bélgica,2010,	24
+Dinamarca,2010,	24
+Espanha,2010,	343
+Finlândia,2010,	12
+França,2010,	191
+Grécia,2010,	10
+Holanda,2010,	61
+Hungria,2010,	3
+Inglaterra,2010,	161
+Irlanda,2010,	36
+Itália,2010,	387
+Noruega,2010,	22
+Polônia,2010,	16
+Portugal,2010,	103
+República Tcheca,2010,	3
+Rússia,2010,	26
+Suécia,2010,	44
+Suíça,2010,	86
+Outros países da Europa,2010,	54
+          Oceania,2010,	220
+Austrália,2010,	145
+Nova Zelândia,2010,	75
+Outros países da Oceania,2010,NA
+          África,2011,	224
+África do Sul,2011,	40
+Angola,2011,	5
+Cabo Verde,2011,NA
+Nigéria,2011,NA
+Outros países da África,2011,	179
+          América Central e caribe,2011,	111
+Costa Rica,2011,	18
+Cuba,2011,	35
+Guatemala,2011,	13
+Panamá,2011,	13
+Outros países da América Central e Caribe,2011,	32
+          América do Norte,2011,	791
+Canadá,2011,	141
+Estados Unidos,2011,	572
+México,2011,	78
+          América do Sul,2011,	172067
+Argentina,2011,	135132
+Bolívia,2011,	229
+Chile,2011,	29229
+Colômbia,2011,	108
+Equador,2011,	82
+Guiana Francesa,2011,NA
+Paraguai,2011,	1897
+Peru,2011,	97
+República da Guiana,2011,	4
+Suriname,2011,NA
+Uruguai,2011,	5169
+Venezuela,2011,	120
+          Ásia,2011,	1067
+China,2011,	19
+Índia,2011,	25
+Israel,2011,	227
+Japão,2011,	19
+República da Coréia ,2011,	35
+Outros países da Ásia,2011,	742
+          Europa,2011,	4602
+Alemanha,2011,	1307
+Áustria,2011,	50
+Bélgica,2011,	53
+Dinamarca,2011,	38
+Espanha,2011,	478
+Finlândia,2011,	31
+França,2011,	417
+Grécia,2011,	15
+Holanda,2011,	91
+Hungria,2011,	3
+Inglaterra,2011,	276
+Irlanda,2011,	69
+Itália,2011,	1040
+Noruega,2011,	27
+Polônia,2011,	49
+Portugal,2011,	205
+República Tcheca,2011,	1
+Rússia,2011,	69
+Suécia,2011,	71
+Suíça,2011,	155
+Outros países da Europa,2011,	157
+          Oceania,2011,	431
+Austrália,2011,	346
+Nova Zelândia,2011,	83
+Outros países da Oceania,2011,	2
+          África,2012,	86
+África do Sul,2012,	30
+Angola,2012,	8
+Cabo Verde,2012,	1
+Nigéria,2012,	1
+Outros países da África,2012,	46
+          América Central e caribe,2012,	66
+Costa Rica,2012,	10
+Cuba,2012,	16
+Guatemala,2012,	2
+Panamá,2012,	6
+Outros países da América Central e Caribe,2012,	32
+          América do Norte,2012,	746
+Canadá,2012,	92
+Estados Unidos,2012,	556
+México,2012,	98
+          América do Sul,2012,	189887
+Argentina,2012,	153716
+Bolívia,2012,	107
+Chile,2012,	25601
+Colômbia,2012,	145
+Equador,2012,	51
+Guiana Francesa,2012,NA
+Paraguai,2012,	2047
+Peru,2012,	86
+República da Guiana,2012,NA
+Suriname,2012,NA
+Uruguai,2012,	8039
+Venezuela,2012,	95
+          Ásia,2012,	420
+China,2012,	19
+Índia,2012,	14
+Israel,2012,	163
+Japão,2012,	13
+República da Coréia ,2012,	65
+Outros países da Ásia,2012,	146
+          Europa,2012,	4228
+Alemanha,2012,	571
+Áustria,2012,	148
+Bélgica,2012,	70
+Dinamarca,2012,	25
+Espanha,2012,	516
+Finlândia,2012,	15
+França,2012,	491
+Grécia,2012,	9
+Holanda,2012,	71
+Hungria,2012,	8
+Inglaterra,2012,	269
+Irlanda,2012,	23
+Itália,2012,	1278
+Noruega,2012,	47
+Polônia,2012,	28
+Portugal,2012,	206
+República Tcheca,2012,	2
+Rússia,2012,	98
+Suécia,2012,	53
+Suíça,2012,	191
+Outros países da Europa,2012,	109
+          Oceania,2012,	261
+Austrália,2012,	216
+Nova Zelândia,2012,	44
+Outros países da Oceania,2012,	1
+Países não especificados,2011,	10
+Países não especificados,2012,	14
+Países não especificados,2010,	4
+          África,2013,	60
+África do Sul,2013,	9
+Angola,2013,	3
+Cabo Verde,2013,NA
+Nigéria,2013,NA
+Outros países da África,2013,	48
+          América Central e caribe,2013,	57
+Costa Rica,2013,	6
+Cuba,2013,	10
+Guatemala,2013,	10
+Panamá,2013,	7
+Outros países da América Central e Caribe,2013,	24
+          América do Norte,2013,	826
+Canadá,2013,	160
+Estados Unidos,2013,	568
+México,2013,	98
+          América do Sul,2013,	167382
+Argentina,2013,	135131
+Bolívia,2013,	90
+Chile,2013,	23946
+Colômbia,2013,	181
+Equador,2013,	57
+Guiana Francesa,2013,NA
+Paraguai,2013,	1954
+Peru,2013,	122
+República da Guiana,2013,NA
+Suriname,2013,NA
+Uruguai,2013,	5702
+Venezuela,2013,	199
+          Ásia,2013,	382
+China,2013,	13
+Índia,2013,	6
+Israel,2013,	148
+Japão,2013,	20
+República da Coréia ,2013,	17
+Outros países da Ásia,2013,	178
+          Europa,2013,	6167
+Alemanha,2013,	1948
+Áustria,2013,	207
+Bélgica,2013,	68
+Dinamarca,2013,	24
+Espanha,2013,	514
+Finlândia,2013,	14
+França,2013,	567
+Grécia,2013,	9
+Holanda,2013,	151
+Hungria,2013,	24
+Inglaterra,2013,	209
+Irlanda,2013,	37
+Itália,2013,	1371
+Noruega,2013,	23
+Polônia,2013,	68
+Portugal,2013,	177
+República Tcheca,2013,	15
+Rússia,2013,	218
+Suécia,2013,	34
+Suíça,2013,	339
+Outros países da Europa,2013,	150
+          Oceania,2013,	136
+Austrália,2013,	120
+Nova Zelândia,2013,	15
+Outros países da Oceania,2013,	1
+Países não especificados,2013,	13
+Países não especificados,2014,	4
+          África,2014,	17
+África do Sul,2014,	2
+Angola,2014,NA
+Cabo Verde,2014,NA
+Nigéria,2014,NA
+Outros países da África,2014,	15
+          América Central e caribe,2014,	29
+Costa Rica,2014,	7
+Cuba,2014,	6
+Guatemala,2014,	2
+Panamá,2014,NA
+Outros países da América Central e Caribe,2014,	14
+          América do Norte,2014,	503
+Canadá,2014,	63
+Estados Unidos,2014,	318
+México,2014,	122
+          América do Sul,2014,	151932
+Argentina,2014,	121100
+Bolívia,2014,	34
+Chile,2014,	25384
+Colômbia,2014,	189
+Equador,2014,	72
+Guiana Francesa,2014,NA
+Paraguai,2014,	1973
+Peru,2014,	84
+República da Guiana,2014,NA
+Suriname,2014,NA
+Uruguai,2014,	2969
+Venezuela,2014,	127
+          Ásia,2014,	407
+China,2014,	11
+Índia,2014,	3
+Israel,2014,	338
+Japão,2014,	12
+República da Coréia ,2014,	9
+Outros países da Ásia,2014,	34
+          Europa,2014,	4014
+Alemanha,2014,	2394
+Áustria,2014,	66
+Bélgica,2014,	52
+Dinamarca,2014,	17
+Espanha,2014,	302
+Finlândia,2014,	4
+França,2014,	310
+Grécia,2014,	8
+Holanda,2014,	42
+Hungria,2014,	6
+Inglaterra,2014,	171
+Irlanda,2014,	19
+Itália,2014,	355
+Noruega,2014,	10
+Polônia,2014,	14
+Portugal,2014,	66
+República Tcheca,2014,NA
+Rússia,2014,	27
+Suécia,2014,	10
+Suíça,2014,	75
+Outros países da Europa,2014,	66
+          Oceania,2014,	70
+Austrália,2014,	65
+Nova Zelândia,2014,	5
+Outros países da Oceania,2014,NA
+Países não especificados,2015,	10
+          África,2015,	20
+África do Sul,2015,	6
+Angola,2015,	3
+Cabo Verde,2015,	1
+Nigéria,2015,NA
+Outros países da África,2015,	10
+          América Central e caribe,2015,	23
+Costa Rica,2015,	6
+Cuba,2015,	7
+Guatemala,2015,NA
+Panamá,2015,	2
+Outros países da América Central e Caribe,2015,	8
+          América do Norte,2015,	560
+Canadá,2015,	23
+Estados Unidos,2015,	467
+México,2015,	70
+          América do Sul,2015,	146790
+Argentina,2015,	124715
+Bolívia,2015,	60
+Chile,2015,	17521
+Colômbia,2015,	162
+Equador,2015,	40
+Guiana Francesa,2015,NA
+Paraguai,2015,	2120
+Peru,2015,	125
+República da Guiana,2015,	3
+Suriname,2015,NA
+Uruguai,2015,	1993
+Venezuela,2015,	51
+          Ásia,2015,	151
+China,2015,	14
+Índia,2015,	6
+Israel,2015,	34
+Japão,2015,	13
+República da Coréia ,2015,	24
+Outros países da Ásia,2015,	60
+          Europa,2015,	1504
+Alemanha,2015,	236
+Áustria,2015,	11
+Bélgica,2015,	15
+Dinamarca,2015,	18
+Espanha,2015,	269
+Finlândia,2015,	2
+França,2015,	161
+Grécia,2015,	6
+Holanda,2015,	33
+Hungria,2015,	3
+Inglaterra,2015,	125
+Irlanda,2015,	7
+Itália,2015,	342
+Noruega,2015,	11
+Polônia,2015,	25
+Portugal,2015,	50
+República Tcheca,2015,	6
+Rússia,2015,	26
+Suécia,2015,	17
+Suíça,2015,	99
+Outros países da Europa,2015,	42
+          Oceania,2015,	75
+Austrália,2015,	53
+Nova Zelândia,2015,	20
+Outros países da Oceania,2015,	2
+África,2016,	19
+África do Sul,2016,	5
+Angola,2016,	9
+Cabo Verde,2016,NA
+Egito,2016,NA
+Gana,2016,NA
+Marrocos,2016,NA
+Moçambique,2016,	2
+Nigéria,2016,NA
+Quênia,2016,NA
+Tunísia,2016,NA
+Outros países da África,2016,	3
+América Central e Caribe,2016,	53
+Costa Rica,2016,	14
+Cuba,2016,	12
+El Salvador,2016,	4
+Guatemala,2016,	1
+Haiti,2016,	9
+Honduras,2016,	2
+Nicarágua,2016,	2
+Panamá,2016,	2
+República Dominicana,2016,	3
+Trinidad e Tobago,2016,NA
+Outros países da América Central e Caribe,2016,	4
+América do Norte,2016,	947
+Canadá,2016,	131
+Estados Unidos,2016,	729
+México,2016,	87
+América do Sul,2016,	200715
+Argentina,2016,	181139
+Bolívia,2016,	127
+Chile,2016,	15133
+Colômbia,2016,	143
+Equador,2016,	37
+Guiana,2016,	9
+Guiana Francesa,2016,NA
+Paraguai,2016,	2120
+Peru,2016,	163
+Suriname,2016,NA
+Uruguai,2016,	1777
+Venezuela,2016,	67
+Ásia,2016,	161
+Arábia Saudita,2016,	1
+Bangladesh,2016,	1
+China,2016,	23
+"China, Hong Kong",2016,NA
+Cingapura,2016,	5
+Filipinas,2016,	7
+Índia,2016,	24
+Indonésia,2016,NA
+Irã,2016,NA
+Israel,2016,	43
+Japão,2016,	10
+Líbano,2016,NA
+Malásia,2016,NA
+Paquistão,2016,NA
+República da Coreia,2016,	27
+Síria,2016,NA
+Tailândia,2016,NA
+Taiwan,2016,NA
+Outros países da Ásia,2016,	20
+          África,2017,	6
+África do Sul,2017,	2
+Angola,2017,NA
+Cabo Verde,2017,NA
+Egito,2017,NA
+Gana,2017,NA
+Marrocos,2017,NA
+Moçambique,2017,NA
+Nigéria,2017,NA
+Quênia,2017,	1
+Tunísia,2017,NA
+Outros países da África,2017,	3
+          América Central e Caribe,2017,	28
+Costa Rica,2017,	11
+Cuba,2017,	7
+El Salvador,2017,NA
+Guatemala,2017,	4
+Haiti,2017,	2
+Honduras,2017,NA
+Nicarágua,2017,NA
+Panamá,2017,NA
+República Dominicana,2017,NA
+Trinidad e Tobago,2017,NA
+Outros países da América Central e Caribe,2017,	4
+          América do Norte,2017,	687
+Canadá,2017,	122
+Estados Unidos,2017,	499
+México,2017,	66
+          América do Sul,2017,	201052
+Argentina,2017,	179362
+Bolívia,2017,	137
+Chile,2017,	17629
+Colômbia,2017,	259
+Equador,2017,	53
+Guiana,2017,NA
+Guiana Francesa,2017,NA
+Paraguai,2017,	2197
+Peru,2017,	268
+Suriname,2017,NA
+Uruguai,2017,	1051
+Venezuela,2017,	96
+          Ásia,2017,	147
+Arábia Saudita,2017,NA
+Bangladesh,2017,NA
+China,2017,	6
+"China, Hong Kong",2017,	1
+Cingapura,2017,	8
+Filipinas,2017,	4
+Índia,2017,	5
+Indonésia,2017,	1
+Irã,2017,NA
+Israel,2017,	77
+Japão,2017,	7
+Líbano,2017,NA
+Malásia,2017,	8
+Paquistão,2017,NA
+República da Coreia,2017,	6
+Síria,2017,NA
+Tailândia,2017,	17
+Taiwan,2017,	1
+Outros países da Ásia,2017,	6
+          África,2018,	40
+África do Sul,2018,	25
+Angola,2018,NA
+Cabo Verde,2018,NA
+Egito,2018,NA
+Gana,2018,	1
+Marrocos,2018,	2
+Moçambique,2018,NA
+Nigéria,2018,	1
+Quênia,2018,NA
+Tunísia,2018,	1
+Outros países da África,2018,	10
+          América Central e Caribe,2018,	170
+Costa Rica,2018,	12
+Cuba,2018,	14
+El Salvador,2018,	2
+Guatemala,2018,	11
+Haiti,2018,	97
+Honduras,2018,	1
+Nicarágua,2018,	3
+Panamá,2018,	11
+República Dominicana,2018,	5
+Trinidad e Tobago,2018,	2
+Outros países da América Central e Caribe,2018,	12
+          América do Norte,2018,	1185
+Canadá,2018,	113
+Estados Unidos,2018,	969
+México,2018,	103
+          América do Sul,2018,	221888
+Argentina,2018,	192708
+Bolívia,2018,	157
+Chile,2018,	22954
+Colômbia,2018,	289
+Equador,2018,	83
+Guiana,2018,	11
+Guiana Francesa,2018,NA
+Paraguai,2018,	3494
+Peru,2018,	309
+Suriname,2018,NA
+Uruguai,2018,	1644
+Venezuela,2018,	239
+          Ásia,2018,	304
+Arábia Saudita,2018,	1
+Bangladesh,2018,NA
+China,2018,	39
+"China, Hong Kong",2018,NA
+Cingapura,2018,	6
+Filipinas,2018,	3
+Índia,2018,	32
+Indonésia,2018,	2
+Irã,2018,	3
+Israel,2018,	114
+Japão,2018,	26
+Líbano,2018,	1
+Malásia,2018,	2
+Paquistão,2018,	1
+República da Coreia,2018,	25
+Síria,2018,NA
+Tailândia,2018,	7
+Taiwan,2018,	4
+Outros países da Ásia,2018,	38
+          África,2019,	27
+África do Sul,2019,	12
+Angola,2019,	1
+Cabo Verde,2019,NA
+Egito,2019,NA
+Gana,2019,NA
+Marrocos,2019,	6
+Moçambique,2019,NA
+Nigéria,2019,NA
+Quênia,2019,NA
+Tunísia,2019,NA
+Outros países da África,2019,	8
+          América Central e Caribe,2019,	86
+Costa Rica,2019,	6
+Cuba,2019,	21
+El Salvador,2019,	6
+Guatemala,2019,	9
+Haiti,2019,	25
+Honduras,2019,	3
+Nicarágua,2019,	1
+Panamá,2019,	3
+República Dominicana,2019,	3
+Trinidad e Tobago,2019,	3
+Outros países da América Central e Caribe,2019,	6
+          América do Norte,2019,	602
+Canadá,2019,	61
+Estados Unidos,2019,	459
+México,2019,	82
+          América do Sul,2019,	197472
+Argentina,2019,	164928
+Bolívia,2019,	151
+Chile,2019,	22961
+Colômbia,2019,	351
+Equador,2019,	60
+Guiana,2019,	16
+Guiana Francesa,2019,NA
+Paraguai,2019,	5612
+Peru,2019,	342
+Suriname,2019,NA
+Uruguai,2019,	2712
+Venezuela,2019,	339
+          Ásia,2019,	256
+Arábia Saudita,2019,NA
+Bangladesh,2019,	6
+China,2019,	25
+"China, Hong Kong",2019,	2
+Cingapura,2019,	2
+Filipinas,2019,	9
+Índia,2019,	13
+Indonésia,2019,NA
+Irã,2019,NA
+Israel,2019,	108
+Japão,2019,	31
+Líbano,2019,NA
+Malásia,2019,	6
+Paquistão,2019,	1
+República da Coreia,2019,	26
+Síria,2019,NA
+Tailândia,2019,	2
+Taiwan,2019,	5
+Outros países da Ásia,2019,	20
+Alemanha,2016,248
+Alemanha,2017,1281
+Alemanha,2018,362
+Alemanha,2019,413
+França,2016,112
+França,2017,176
+França,2018,259
+França,2019,180
+Itália,2016,411
+Itália,2017,476
+Itália,2018,512
+Itália,2019,530

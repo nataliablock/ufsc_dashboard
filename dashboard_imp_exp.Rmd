@@ -1,0 +1,46 @@
+---
+title: "Presença internacional em Santa Catarina"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: column
+    theme: cerulean
+
+---
+
+```{r setup, include=FALSE}
+library(plotly)
+library(flexdashboard)
+```
+---
+    
+Column {data-width=600}{.tabset}
+-------------------------------------
+
+### Exportações
+
+```{r}
+exportacao_graf
+```
+
+### Importações
+
+```{r}
+importacao_graf
+```
+
+Column {data-width=400}
+-------------------------------------
+   
+### Turismo
+
+```{r}
+
+turismo_graf
+```   
+    
+### Migrações (total por sexo)
+
+```{r}
+
+migracao_graf
+```
