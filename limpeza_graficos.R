@@ -352,5 +352,5 @@ migracao_graf<-migracao_graf%>% layout(xaxis = list(title = "total de migrantes 
 
 
 ### para renderizar o dashboard:
-rmarkdown::render("dashboard_imp_exp.Rmd", output_format = "flexdashboard::flex_dashboard")  
+rmarkdown::render("index.Rmd", output_format = "flexdashboard::flex_dashboard")  
 
